@@ -1,1 +1,29 @@
-This program performs many graph operations such as adding, multiplying, removing a vertex or edge, etc.
+# Graph
+### C class describing graph/orgraph. The class supports the following functionality:
+- definition of number of tops;
+- define the number of edges (arcs)
+- determination of the degree of arbitrary vertex (for orgraph - half-stages of exit and approach);
+- define the power sequence of the graph;
+- definition of a matrix of contiguity;
+- definition of a matrix of incidence;
+- definition of the list of contiguity;
+- define hanging vertices, define isolated vertices;
+- determination of origins and effluents in the orgraph;
+- defines the distance between two vertices;
+- determination of eccentricity of top;
+- determination of diameter of the count;
+- determination of radius of the count;
+- definition of the center of the count;
+- definition of peripheral tops;
+- add/delete vertex to graph;
+- add/remove edge to graph;
+- definition of addition of the count;
+- subdivision of an edge;
+- tightening of the count;
+- identification of tops;
+- duplication of top;
+- reproduction of top;
+- association (disjunctive) counts;
+- connection of counts;
+- work by counts;
+- input/output of graphs to text file as adjacency list
